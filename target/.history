@@ -1,0 +1,53 @@
+compile
+console
+compile
+compile -deprecation
+compile
+run
+compile
+run
+compile
+run
+reload
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+clean
+compile
+run
+clean
+compile
+clean
+compile
+compile -deprecation
+run
+clean
+compile
+run
+clean
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+console project
+console
+compile
+run
+compile
+run
+clean
+compile
+re-run -deprecation
+re-run with -deprecation
+clean
+compile -deprecation
+clean
