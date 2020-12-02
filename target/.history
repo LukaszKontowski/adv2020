@@ -51,3 +51,21 @@ re-run with -deprecation
 clean
 compile -deprecation
 clean
+console
+clean
+compile
+-deprecation
+compile -deprecation
+compile
+console
+clean
+compile
+re-run
+compile
+run
+compile
+clean
+compile
+run
+compile
+run
