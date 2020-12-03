@@ -69,3 +69,17 @@ compile
 run
 compile
 run
+console
+clean
+compile
+clean
+compile
+run
+compile
+run
+clean
+compile
+run
+clean
+compile
+run
