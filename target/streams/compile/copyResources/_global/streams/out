@@ -1,4 +1,6 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/kontowscy/nauka/adv2020/src/main/resources/test_input.txt,/Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/test_input.txt)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/kontowscy/nauka/adv2020/src/main/resources/1a_input.txt,/Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/1a_input.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/kontowscy/nauka/adv2020/src/main/resources/4a_input.txt,/Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/4a_input.txt)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/kontowscy/nauka/adv2020/src/main/resources/3a_input.txt,/Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/3a_input.txt)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/kontowscy/nauka/adv2020/src/main/resources/2a_input.txt,/Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/2a_input.txt)[0m

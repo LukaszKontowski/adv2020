@@ -1,9 +1,13 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kontowscy/nauka/adv2020/target/scala-2.13/adv2020_2.13-0.0.1-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test_input.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/test_input.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	1a_input.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/1a_input.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	4a_input.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/4a_input.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	daytwo[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/daytwo[0m
 [0m[[0m[0mdebug[0m] [0m[0m	daytwo/DayTwo.class[0m
@@ -18,6 +22,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/dayone/DayOne.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	dayone/DayOne$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/dayone/DayOne$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dayfour[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/dayfour[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dayfour/DayFour$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/dayfour/DayFour$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dayfour/DayFour.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/dayfour/DayFour.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kontowscy/nauka/adv2020/target/scala-2.13/classes/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	dayThree[0m
