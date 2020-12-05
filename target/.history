@@ -106,3 +106,17 @@ run
 console
 compile
 run
+console
+clean
+compile
+run
+console
+compile
+run
+console
+clean
+compile
+run
+clean
+compile
+clean
