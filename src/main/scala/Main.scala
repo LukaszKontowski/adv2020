@@ -6,7 +6,8 @@
 //import daysix.DaySix._
 //import dayseven.DaySeven._
 //import dayeight.DayEight._
-import daynine.DayNine._
+//import daynine.DayNine._
+import dayten.DayTen._
 
 object Main {
   def main(args: Array[String]) {
@@ -19,10 +20,10 @@ object Main {
     //day7 -- val inMap = collectAll(inputToList("7a_input.txt"), Map())
     //day7 -- val result = countOutermosts(inMap) + countInters(collectWantedBags(inMap), inMap)
     //day 8 -- val result = findCorruptedIndex(inputToList("8a_input.txt"), List(0))
-    val result = findWrongNumber(inputToList("9a_input.txt"))
-    val set = findSet(inputToList("9a_input.txt"), inputToList("9a_input.txt"), List(), result, BigInt(0)) 
+    //day 9 -- val result = findWrongNumber(inputToList("9a_input.txt"))
+    //day 9 -- val set = findSet(inputToList("9a_input.txt"), inputToList("9a_input.txt"), List(), result, BigInt(0)) 
+    val differences = countDifferences(0, inputToList("10a_input.txt").sorted, inputToList("10a_input.txt").max + 3, 0, 0)
+    val result = differences._1 * differences._2
     println(result)
-    println(set)
-    println(set.min + set.max)
   }
 }
