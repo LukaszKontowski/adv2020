@@ -236,3 +236,15 @@ clean
 compile
 run
 clean
+console
+clean
+compile
+clean
+compile
+run
+clean
+compile
+clean
+compile
+run
+clean

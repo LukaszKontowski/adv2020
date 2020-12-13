@@ -7,7 +7,8 @@
 //import dayseven.DaySeven._
 //import dayeight.DayEight._
 //import daynine.DayNine._
-import dayten.DayTen._
+//import dayten.DayTen._
+import daytwelve.DayTwelve._
 
 object Main {
   def main(args: Array[String]) {
@@ -22,8 +23,9 @@ object Main {
     //day 8 -- val result = findCorruptedIndex(inputToList("8a_input.txt"), List(0))
     //day 9 -- val result = findWrongNumber(inputToList("9a_input.txt"))
     //day 9 -- val set = findSet(inputToList("9a_input.txt"), inputToList("9a_input.txt"), List(), result, BigInt(0)) 
-    val differences = countDifferences(0, inputToList("10a_input.txt").sorted, inputToList("10a_input.txt").max + 3, 0, 0)
-    val result = differences._1 * differences._2
+    //day10 -- val differences = countDifferences(0, inputToList("10a_input.txt").sorted, inputToList("10a_input.txt").max + 3, 0, 0)
+    //day10 -- val result = differences._1 * differences._2
+    val result = secondCalculate(inputToList("12a_input.txt"), (0,0), (10,1))
     println(result)
   }
 }
